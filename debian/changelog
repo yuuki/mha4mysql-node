@@ -1,3 +1,10 @@
+mha4mysql-node (0.57-0) jessie; urgency=low
+
+  * (Note: All changelogs are written here: http://code.google.com/p/mysql-master-ha/wiki/ReleaseNotes )
+  * Version 0.57
+
+ -- Yuuki Tsubouchi <yuki.tsubo@gmail.com>  Thu, 4 Aug 2016 22:00:00 +0000
+
 mha4mysql-node (0.56-0) squeeze; urgency=low
 
   * (Note: All changelogs are written here: http://code.google.com/p/mysql-master-ha/wiki/ReleaseNotes )
